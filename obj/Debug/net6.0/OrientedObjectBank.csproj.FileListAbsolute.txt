@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\OrientedObjectBank\bin\Debug\net6.0\OrientedObjectBank.exe
+C:\Users\DELL\Documents\OrientedObjectBank\bin\Debug\net6.0\OrientedObjectBank.deps.json
+C:\Users\DELL\Documents\OrientedObjectBank\bin\Debug\net6.0\OrientedObjectBank.runtimeconfig.json
+C:\Users\DELL\Documents\OrientedObjectBank\bin\Debug\net6.0\OrientedObjectBank.dll
+C:\Users\DELL\Documents\OrientedObjectBank\bin\Debug\net6.0\OrientedObjectBank.pdb
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\OrientedObjectBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\OrientedObjectBank.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\OrientedObjectBank.AssemblyInfo.cs
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\OrientedObjectBank.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\OrientedObjectBank.dll
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\refint\OrientedObjectBank.dll
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\OrientedObjectBank.pdb
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\OrientedObjectBank.genruntimeconfig.cache
+C:\Users\DELL\Documents\OrientedObjectBank\obj\Debug\net6.0\ref\OrientedObjectBank.dll
