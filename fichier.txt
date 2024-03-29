@@ -1,0 +1,3 @@
+vous avez fait un retrait de:25000et votre nouveau solde est de 1395000 le solde de votre compte est:1200000
+vous avez fait un depot de:300000et votre nouveau solde est de 1500000 
+vous avez fait un depot de:300000et votre nouveau solde est de 1530000 

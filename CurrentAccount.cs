@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace OrientedObjectBank
 {
@@ -23,6 +24,8 @@ namespace OrientedObjectBank
             {
                 Console.WriteLine("Vous avez atteint le pafond de votre compte");
             }
+            File.AppendAllText(@"C:\Users\DELL\Documents\OrientedObjectBank\fichier.txt", $"vous avez fait un retrait de:{amount}" +
+               $"et votre nouveau solde est de {balance} " + Environment.NewLine);
         }
        
     }

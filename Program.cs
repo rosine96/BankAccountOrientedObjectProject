@@ -45,7 +45,8 @@
                                   2-consulter le solde
                                   3-Effectuer un depot
                                   4-effectuer un retrait
-                                  5-Quitter");
+                                  5-afficher l'historique du compte
+                                  6-Quitter");
                     choix = int.Parse(Console.ReadLine());
                     
                     
@@ -68,6 +69,10 @@
                                 tab[i].Withdraw(montant);
                                 break;
                             case 5:
+                                string texte=File.ReadAllText(@"C:\Users\DELL\Documents\OrientedObjectBank\fichier.txt");
+                                Console.WriteLine($"{texte}");
+                                break;
+                            case 6:
                                 Environment.Exit(0);
                                 break; 
                             default:
